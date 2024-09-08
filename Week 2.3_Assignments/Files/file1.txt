@@ -1,9 +1,0 @@
-JavaScript is a lightweight, interpreted programming language.
-
-Designed for creating network-centric applications.
-
-Complementary to and integrated with Java.
-
-Complementary to and integrated with HTML.
-
-Open and cross-platform

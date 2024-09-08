@@ -1,7 +1,0 @@
-JavaScript Library: React is a popular JavaScript library for building user interfaces, particularly for single-page applications.
-
-
-Component-Based: It allows developers to build reusable components, which can manage their own state and be composed to create complex UIs.
-
-
-Developed by Facebook: React was created and is maintained by Facebook, along with a large community of developers.
